@@ -1,4 +1,4 @@
-<img width="1535" height="862" alt="EXP 6" src="https://github.com/user-attachments/assets/02e8525d-9561-4a5b-a6cf-bda8dcd3577e" /># EXP-6--Shift-Register
+# EXP-6--Shift-Register
 # Design and Verification of a 4-bit Serial-In Parallel-Out (SIPO) Shift Register
 ## Aim
 
