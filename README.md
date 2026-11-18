@@ -1,4 +1,4 @@
-# EXP-6--Shift-Register
+<img width="1535" height="862" alt="EXP 6" src="https://github.com/user-attachments/assets/02e8525d-9561-4a5b-a6cf-bda8dcd3577e" /># EXP-6--Shift-Register
 # Design and Verification of a 4-bit Serial-In Parallel-Out (SIPO) Shift Register
 ## Aim
 
@@ -150,7 +150,7 @@ Q(next) = {Q[2:0], sin}
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected operation table.
 
 ## Output
-<img width="591" height="181" alt="image" src="https://github.com/user-attachments/assets/f27135f4-6a61-4a44-a099-9be11f7cd54b" />
+<img width="1535" height="862" alt="EXP 6" src="https://github.com/user-attachments/assets/5841cd3a-7dae-40a5-8a5a-84ce157d3985" />
 
 ## Viva-Voce Questions
 
